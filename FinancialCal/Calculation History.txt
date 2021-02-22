@@ -1,0 +1,273 @@
+Mortgage Calculation
+Home Price = 10000
+Monthly Payment = 
+Compound = 12
+Loan Term = 2
+Interest Rate = 5
+Down Payment = 200
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 2
+Compound = 
+Interest Rate = 10
+Start Principal = 1000
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 2
+Compound = 12
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Savings Calculations
+Future Value = 
+Number Of Periods = 2
+Compound = 12
+Interest Rate = 10
+Start Principal = 4.738381338321617E24
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 2
+Compound = 12
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 2
+Compound = 12
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 4.709077739432489E27
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 4.709077739432489E27
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 4.709077739432489E27
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 4.709077739432489E27
+
+
+
+
+Savings Calculations
+Future Value = 9.938156942641709E8
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 4.709077739432489E27
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 
+Compound = 12
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 12
+Compound = 
+Interest Rate = 10
+Start Principal = 100
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 12
+Compound = 1
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Savings Calculations
+Future Value = 1000000
+Number Of Periods = 12
+Compound = 1
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Mortgage Calculation
+Home Price = 1000000
+Monthly Payment = 
+Compound = 1
+Loan Term = 12
+Interest Rate = 10
+Down Payment = 1000
+
+
+
+
+Savings Calculations
+Future Value = 100000
+Number Of Periods = 1
+Compound = 12
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Savings Calculations
+Future Value = 10000000
+Number Of Periods = 1
+Compound = 12
+Interest Rate = 10
+Start Principal = 
+
+
+
+
+Mortgage Calculation
+Home Price = 
+Monthly Payment = 1000
+Compound = 12
+Loan Term = 2
+Interest Rate = 10
+Down Payment = 100000
+
+
+
+
+Mortgage Calculation
+Home Price = 10000000
+Compound = 12
+Loan Term = 1
+Interest Rate = 10
+Down Payment = 8421826.006349491
+
+
+
+
+null
+
+
+
+
+null
+
+
+
+
+null
+
+
+
+
+null
+
+
+
+
